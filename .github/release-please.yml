@@ -1,0 +1,33 @@
+# Release Please configuration
+draft: false
+
+# Main branch to track for releases
+branches:
+  - main
+
+# Use simple (generic) release type since this is a Lua resource template
+release-type: simple
+
+# Include leading "v" in version tags (e.g., v1.2.3)
+include-v-in-tag: true
+
+# Map commit types to changelog sections
+changelog-types:
+  - type: feat
+    section: "✨ Features"
+  - type: fix
+    section: "🐞 Fixes"
+  - type: docs
+    section: "📝 Documentation"
+  - type: refactor
+    section: "🔨 Refactor"
+  - type: perf
+    section: "⚡ Performance"
+  - type: chore
+    section: "🧹 Chores"
+  - type: test
+    section: "✅ Tests"
+    hidden: true
+  - type: build
+    section: "🧰 Build System"
+    hidden: true 
