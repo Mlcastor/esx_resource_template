@@ -17,7 +17,7 @@ jobs:
         with:
           version: 0.20.0
           token: ${{ secrets.GITHUB_TOKEN }}
-          args: --check .
+          args: --check client server shared fxmanifest.lua --glob '!node_modules/**'
 
   luacheck:
     name: Luacheck lint

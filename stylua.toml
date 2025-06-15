@@ -4,8 +4,3 @@ column_width = 120
 line_endings = "Unix"
 quote_style = "AutoPreferDouble"
 call_parentheses = "None"
-
-# Files to format
-[files]
-include = ["client/**/*.lua", "server/**/*.lua", "shared/**/*.lua", "fxmanifest.lua"]
-exclude = ["node_modules/**/*.lua"]
