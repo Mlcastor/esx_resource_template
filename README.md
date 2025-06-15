@@ -1,7 +1,7 @@
 # ESX Resource Template
 
 [![CI](https://github.com/Mlcastor/esx_resource_template/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Mlcastor/esx_resource_template/actions/workflows/ci.yml)
-[![Latest Release](https://img.shields.io/github/v/release/Mlcastor/esx_resource_template?sort=semver)](https://github.com/Mlcastor/esx_resource_template/releases)
+[![Latest Release](https://img.shields.io/github/v/release/Mlcastor/esx_resource_template?sort=semver)](https://github.com/Mlcastor/esx_resource_template/releases/latest)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
 
 >A batteries-included boilerplate every new **ESX/FiveM** script starts from.
