@@ -6,6 +6,7 @@ name: Release Please
 permissions:
   contents: write      # push new branch + tags
   pull-requests: write # open/update release PR
+  issues: write        # create release labels (autorelease: pending/tagged)
 
 on:
   push:
