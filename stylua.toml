@@ -6,5 +6,5 @@ quote_style = "AutoPreferDouble"
 call_parentheses = "None"
 
 # Files to format
-include = { "client/**/*.lua", "server/**/*.lua", "shared/**/*.lua", "fxmanifest.lua" }
-exclude = { "node_modules/**/*.lua" }
+include = ["client/**/*.lua", "server/**/*.lua", "shared/**/*.lua", "fxmanifest.lua"]
+exclude = ["node_modules/**/*.lua"]
