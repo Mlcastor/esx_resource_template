@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.0](https://github.com/Mlcastor/esx_resource_template/compare/v0.3.0...v1.0.0) (2025-06-15)
+
+
+### Documentation
+
+* **readme:** polish template docs and add badges ([c545383](https://github.com/Mlcastor/esx_resource_template/commit/c545383bbce6f8ac8e5f21ff285fc3c08abdb692))
+
 ## [0.3.0](https://github.com/Mlcastor/esx_resource_template/compare/v0.2.0...v0.3.0) (2025-06-15)
 
 
